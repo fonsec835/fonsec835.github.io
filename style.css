@@ -12,6 +12,7 @@ body {
 nav{
    background: rgb(5, 188, 255);
   margin: 0 auto;
+  margin-bottom: 20px;
    display: flex;
    padding: 20px;
 }
